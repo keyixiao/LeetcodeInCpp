@@ -1,1 +1,3 @@
-LeetCode solutions in C++
+LeetCode solutions in C++.
+
+First use github
